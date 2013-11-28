@@ -1,0 +1,22 @@
+label {
+  cursor: pointer;
+  color: blue;
+}
+
+label:hover {
+  text-decoration: underline;
+}
+
+table {
+  position: relative;
+  top: 20px;
+}
+
+label.ID {
+  color: black;
+  cursor: default;
+}
+
+td {
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+#countriesRight {
+  position: relative;
+  right: 60px;
+}
+
+select {
+  width: 150px;
+}
+
+#addButton {
+  position: relative;
+  top: -40px;
+  left: 3px;
+}
+
+#removeButton {
+  position: relative;
+  right: 60px;  
+}
+
+button {
+  background-color: orange;
+}
+
